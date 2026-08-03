@@ -3,6 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abu Bakor Siddik</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Head+of+Technical+%26+Web+Team+at+PR4U;B.Sc.+in+Computer+Science+%26+Engineering;Passionate+about+Web+Development+%26+AI;Open+to+Collaborate+on+Exciting+Projects"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 # 💫 About Me:
