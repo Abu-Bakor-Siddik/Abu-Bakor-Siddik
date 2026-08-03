@@ -27,9 +27,9 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abu-Bakor-Siddik&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-## 🏆 GitHub Trophies
+<h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abu-Bakor-Siddik&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/Abu-Bakor-Siddik/Abu-Bakor-Siddik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ### ✍️ Random Dev Quote
